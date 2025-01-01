@@ -6,7 +6,7 @@
 
 
 $name = $_POST['name'];
-$name = $_POST['product_data'];
+$product_data = $_POST['product_data'];
 $phone = $_POST['phone'];
 $token = "7492982602:AAGci6YXKW64JM6fdm6ud_55hYX7sAJl-PI";
 $chat_id = "-4223623903";
